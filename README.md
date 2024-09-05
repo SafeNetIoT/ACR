@@ -37,5 +37,8 @@ Replace <time duration of the experiment> with the desired duration of the exper
 
 If you find our research or resources helpful, please cite our work as follows:
 ```
-Gianluca Anselmi, Yash Vekaria, Alexander D’Souza, Patricia Callejo, Anna Maria Mandalari, and Zubair Shafiq. 2024. Watching TV with the Second- Party: A First Look at Automatic Content Recognition Tracking in Smart TVs. In Proceedings of the 2024 ACM Internet Measurement Conference (IMC ’24), November 4–6, 2024, Madrid, Spain. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3646547.3689013
+Gianluca Anselmi, Yash Vekaria, Alexander D’Souza, Patricia Callejo, Anna Maria Mandalari, and Zubair Shafiq.
+2024. Watching TV with the Second- Party: A First Look at Automatic Content Recognition Tracking in Smart TVs.
+In Proceedings of the 2024 ACM Internet Measurement Conference (IMC ’24), November 4–6, 2024, Madrid, Spain.
+ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3646547.3689013
 ```

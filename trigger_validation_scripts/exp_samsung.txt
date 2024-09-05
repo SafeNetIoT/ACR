@@ -1,0 +1,1 @@
+samsung_tv;samsung_tv_channel;com.tuya.smart;b0:99:d7:2d:54:20;66x57+1079+898;tap 570 540;tap 540 440;tap 570 540;tap 540 440;

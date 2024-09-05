@@ -1,0 +1,1 @@
+lg_tv;lg_kids_channel;com.tuya.smart;b8:16:5f:ef:fb:58;66x57+1079+898;tap 540 880;tap 540 440;tap 230 440;tap 540 1500;tap 540 880;tap 540 440;
